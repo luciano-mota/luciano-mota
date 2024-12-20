@@ -1,5 +1,8 @@
 # 💫 About Me:
-Java Software Engineering Analist<br>4 Years of experience
+Java Software Engineering Analist<br>4 Years of experience working with backend<br>Atuei em grande empresas do setor financeiro, sendo elas:
+ Lumini IT Solutions
+ Matera
+ Iteris Cosultoria e Software
 
 
 ## 🌐 Socials:
