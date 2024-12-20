@@ -1,12 +1,8 @@
 # 💫 About Me:
-Java Software Engineering Analist<br>4 Years of experience working with backend<br>Atuei em grande empresas do setor financeiro, sendo elas:
- Lumini IT Solutions
- Matera
- Iteris Cosultoria e Software
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luciano.mota99/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luciano-costa-mota-232b50161/) 
+Java Software Engineering Analist<br>4 Years of experience working with backend<br>Atuei em grande empresas do setor financeiro, sendo elas: <br>
+*Lumini IT Solutions*<br>
+*Matera*<br>
+*Iteris Cosultoria e Software*
 
 # 💻 Tech Stack:
 
@@ -33,5 +29,8 @@ Java Software Engineering Analist<br>4 Years of experience working with backend<
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luciano-mota&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luciano.mota99/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luciano-costa-mota-232b50161/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
