@@ -1,11 +1,11 @@
 # 👋🏼 Hey Devs, how are you?
 
 ## 💫 About Me:
-My name is Luciano Mota, 🇧🇷 Brazilian, 💍 Married, I'm 25 years old, I have a degree in Systems Analysis and Development from Faculdade Internacional de São Luís by Wyden, I have a postgraduate degree in Methodologies, Pedagogical Practices and Educational Technologies, I am currently specializing in Software Architecture and Solutions with AI from Faculdade XP.<br>
+Meu nome é Luciano Mota, 🇧🇷 Brasileiro, 💍 Casado, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Internacional de São Luís pela Wyden, possuo pós-graduação em Arquitetura de Software e Soluções pela Faculdade XP.<br>
 
-I work as a Java Software Engineering Analyst at ELO<br>4 Years of experience working with backend<br>
+Trabalho como Analista de Engenharia de Software Java na ELO<br>Tenho 4 anos de experiência como Desenvolvedor Backend Java<br>
 
-I worked in large companies in the financial sector, including: <br>
+E atuei em grandes empresas do setor financeiro como:<br>
 *Lumini IT Solutions*<br>
 *Matera*<br>
 *Iteris Cosultoria e Software*
