@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Meu nome é Luciano Mota, 🇧🇷 Brasileiro, 💍 Casado, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Internacional de São Luís pela Wyden, possuo pós-graduação em Arquitetura de Software e Soluções pela Faculdade XP.<br>
 
-Trabalho como Analista de Engenharia de Software Java na ELO<br>Tenho quase 5 anos de experiência como Desenvolvedor Backend Java<br>
+Trabalho como Analista de Engenharia de Software Java na ELO<br>Tenho pouco mais de 5 anos de experiência como Desenvolvedor Backend Java<br>
 
 E atuei em grandes empresas do setor financeiro como:<br>
 *Lumini IT Solutions*<br>
