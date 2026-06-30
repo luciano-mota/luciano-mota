@@ -3,12 +3,24 @@
 ## 💫 About Me:
 Meu nome é Luciano Mota, 🇧🇷 Brasileiro, 💍 Casado, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Internacional de São Luís by Wyden, possuo pós-graduação em Arquitetura de Software e Soluções, e também em Arquitetura de Software e Soluções com Inteligência Artificial pela Faculdade XP.<br>
 
-Trabalho como Desenvolvedor Backend Java na Basis<br>Tenho 5+ anos de experiência como Desenvolvedor Backend Java<br>
+Atuo como Desenvolvedor Backend Java na Basis Tecnologia da Informação S.A.<br>Tenho 5+ anos de experiência como Desenvolvedor de Software utilizando Java.<br>
+<br>
+Desenvolvedor Backend Java com experiências em sistemas críticos nos segmentos financeiro, bancário, meios de pagamento e integração de sistemas.
+Atuo no desenvolvimento de soluções backend utilizando Java e ecossistema Spring, com forte atuação em arquitetura de microsserviços, APIs REST e sistemas distribuídos.
+Tenho experiência em projetos de alta complexidade, incluindo:
+
+• Sistemas de Internet Banking e Core Banking
+• Conta Corrente e Conta Digital
+• Integrações com PIX, TED e Boleto
+• Plataformas de prevenção à fraude e meios de pagamento
+• Integração de sistemas legados e modernização de arquiteturas
+
+<br>
 
 E atuei em grandes empresas do setor financeiro como:<br>
 *Lumini IT Solutions*<br>
 *Matera*<br>
-*Iteris Cosultoria e Software*
+*Iteris Cosultoria e Software*<br>
 *ELO* (Bandeira de Cartões)
 
 ## 💻 Tech Stack and Tools:
