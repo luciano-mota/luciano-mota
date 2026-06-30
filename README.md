@@ -1,7 +1,7 @@
 # 👋🏼 Hey Devs, how are you?
 
 ## 💫 About Me:
-Meu nome é Luciano Mota, 🇧🇷 Brasileiro, 💍 Casado, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Internacional de São Luís pela Wyden, possuo pós-graduação em Arquitetura de Software e Soluções, e também em Arquitetura de Software e Soluções com Inteligência Artificial pela Faculdade XP.<br>
+Meu nome é Luciano Mota, 🇧🇷 Brasileiro, 💍 Casado, tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Internacional de São Luís by Wyden, possuo pós-graduação em Arquitetura de Software e Soluções, e também em Arquitetura de Software e Soluções com Inteligência Artificial pela Faculdade XP.<br>
 
 Trabalho como Desenvolvedor Backend Java na Basis<br>Tenho 5+ anos de experiência como Desenvolvedor Backend Java<br>
 
