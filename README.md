@@ -8,7 +8,8 @@ Atuo como Java Backend Developer na Basis Tecnologia da Informação.<br>Tenho 5
 <br>
 Tenho experiências em sistemas críticos nos segmentos financeiro, bancário, meios de pagamento e integração de sistemas.<br>
 Atuo no desenvolvimento de soluções backend utilizando Java e ecossistema Spring, com forte atuação em arquitetura de microsserviços, APIs REST e sistemas distribuídos.<br>
-Tenho experiência em projetos de alta complexidade, incluindo:
+<br>
+Tenho experiência em projetos de alta complexidade, incluindo:<br>
 <br>
 • Sistemas de Internet Banking e Core Banking<br>
 • Conta Corrente e Conta Digital<br>
